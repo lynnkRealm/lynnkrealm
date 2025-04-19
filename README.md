@@ -40,14 +40,14 @@
     > 강화학습과 객체 인식으로 그려낸 자율주행 시뮬레이션
     > 
     > 
-    > [GitHub ↗](https://github.com/lynnkRealm/CRUXS)
+    > [GitHub ↗](https://github.com/CRUX-S)
     > 
 - 🚓 **CNED** | 자율주행을 이용한 스마트 네비게이션
     
     > 공공의 길 위에 놓인 위험을 감지하는 똑똑한 네비게이션
     > 
     > 
-    > [GitHub ↗](https://github.com/lynnkRealm/CNED)
+    > [GitHub ↗](https://github.com/C-NED)
     > 
 - ⚓ **dock.sh** | 명령어 한 줄로 끝나는 몰입 개발 환경 자동화 도구
     
