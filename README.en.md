@@ -6,12 +6,10 @@
 > _“The surface stays still,  
 > but the depths are warm and alive.”_
 
-A pond that connects to the world—  
-and I, the architect of the flow hidden beneath.
-
-For someone I may never meet,  
-I build structures, name what I shape,  
-and quietly leave my traces.
+A pond that connects to the world.
+I am the architect of the currents within, the wizard who controls the pond.
+For someone who will eventually arrive,
+I create structures, name them, and leave behind my traces.
 
 > _This pond quietly began  
 > from the current inside my name._
