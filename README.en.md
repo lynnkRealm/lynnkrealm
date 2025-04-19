@@ -1,5 +1,5 @@
 > This is the English version of the page.  
-> [korea version →](./README.md)
+> [🌐 View in Korean →](./README.md)
 
 # 🌊 lynnkRealm
 
