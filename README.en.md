@@ -1,4 +1,4 @@
-> This is the English version of the page.  
+> 🇺🇸 This is the English version of the page.  
 > [🌐 View in Korean →](./README.md)
 
 # 🌊 lynnkRealm
