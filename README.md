@@ -138,7 +138,7 @@
 
 ## 🎓 traces of study
 
-- 📍 Gachon University - Computer Engineering (2021 ~ )
+- 📍 Gachon University (2021 ~ )
 > 첫 흐름을 배우고, 파문을 일으킨 곳.
 ---
 
