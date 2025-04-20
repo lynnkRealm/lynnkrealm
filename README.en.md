@@ -111,7 +111,7 @@ They mark where my story begins.
 
 ## 🎓 traces of study
 
-- 📍 Gachon University — Computer Engineering (2021 ~ )  
+- 📍 Gachon University (2021 ~ )  
 > Where I first learned the language of flow and made my first ripple.
 
 ---
