@@ -74,7 +74,7 @@ and walk alongside me on the path I've drawn.
 
 ---
 
-## 🧪 stacks I wield
+## 🪄 stacks I wield
 
 > Tools that shape the flow, frame the structure, and deepen the immersion.
 
