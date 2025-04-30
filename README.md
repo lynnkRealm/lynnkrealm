@@ -52,7 +52,7 @@
     > 돛을 내리고, 몰입의 연못에 정박하는 의식
     > 
     > 
-    > [GitHub ↗](https://github.com/lynnkRealm/dock.sh)
+    > (coming soon)
     > 
 - 🐬 **orca** | 몰입을 함께하는 나의 마법 비서 - 디지털 고래
     
