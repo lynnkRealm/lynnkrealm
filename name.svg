@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="36">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap');
+    </style>
+  </defs>
+  <text x="0" y="28" fill="#E5C453" font-family="'Cinzel', serif" font-size="28" font-weight="700">lynnkRealm</text>
+</svg>
