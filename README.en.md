@@ -1,7 +1,7 @@
 > 🇺🇸 This is the English version of the page.  
 > [🌐 View in Korean →](./README.md)
 
-# <img src="https://github.com/user-attachments/assets/991d54d6-8cc2-4dc6-babc-e431b043860c" alt="lynnkRealm" height="36"/>
+# <img src="https://github.com/user-attachments/assets/a49b24bd-ac0d-4025-98af-c387b3a874df" alt="lynnkRealm" height="50"/>
 
 > _“The surface stays still,  
 > but the depths are warm and alive.”_
