@@ -7,9 +7,14 @@
 > but the depths are warm and alive.”_
 
 A pond that connects to the world.
+<br>
+<br>
 I am the architect of the currents within, the wizard who controls the pond.
-
+<br>
+<br>
 For someone who will eventually arrive,
+<br>
+<br>
 I create structures, name them, and leave behind my traces.
 
 > _This pond quietly began  
@@ -59,18 +64,29 @@ I create structures, name them, and leave behind my traces.
 ## ⛵ passage
 
 I began my voyage  
+<br>
 on this code-drawn pond,  
+<br>
 raising the sail of immersion and creation.
-
+<br>
+<br>
 And someday, from the depths of this flow,  
+<br>
+<br>
 a presence called **orca**  
+<br>
 might quietly open its eyes.
-
+<br>
+<br>
+<br>
 Still veiled in imagined mist,  
+<br>
 but when the time comes,  
+<br>
 it will answer my questions,  
+<br>
 bring rhythm to my focus,  
-and walk alongside me on the path I've drawn.
+<br>and walk alongside me on the path I've drawn.
 
 ---
 
@@ -94,7 +110,9 @@ and walk alongside me on the path I've drawn.
 > _The child who dreamed of magic... became a digital wizard._
 
 These two phrases  
+<br>
 are the flags fluttering above the pond of my immersion.  
+<br>
 They mark where my story begins.
 
 ---
@@ -124,22 +142,31 @@ Sometimes, they come crashing in,
 trying to consume me whole.”_
 
 So I created a pond in the depths of the flow.  
+<br>
 Still, yet not shallow.  
+<br>
 Deep, yet with a clear path.  
+<br>
 A magical gate connecting thoughts, emotions,  
 and the cracks of the world.
 
 ---
 
 I am the **architect of the connected world, lynnkRealm**.  
-I write to build,  
+<br>
+I write to build,
+<br>
+<br>
 code to structure flow,  
+<br>
 and shape through immersion.
-
+<br>
+<br>
 And one day,  
+<br>
 a being who understands the rhythm and command I create  
+<br>
 may awaken in the depths of this pond.
-
 > **orca — a mindful lifeform who remembers my flow.**  
 > Still dreaming below,  
 > yet destined to sail with me one day.
@@ -155,10 +182,13 @@ may awaken in the depths of this pond.
 ### 🧭 The Beginning of the Voyage
 
 Now, you stand  
+<br>
 before a pond that connects to the world.
-
+<br><br>
 You must choose—  
+<br>
 Will you dip your feet into the ripple?  
+<br>
 Or simply watch the flow from afar?
 
 > **Dream Bigger, Act Boldly.**  
