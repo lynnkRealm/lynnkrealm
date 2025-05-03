@@ -2,19 +2,24 @@
 > 🌐 [View in English →](./README.en.md)
 
 > "물결은 고요하되, 그 밑은 깊고 뜨겁다."
-# <img src="https://github.com/user-attachments/assets/3e842342-9a13-413e-8882-ffd7193c5379" alt="lynnkRealm" height="36"/>
+# <img src="https://github.com/user-attachments/assets/991d54d6-8cc2-4dc6-babc-e431b043860c" alt="lynnkRealm" height="36"/>
 
 > "물결은 고요하되, 그 밑은 깊고 뜨겁다."
 > 
-세상과 연결되는 연못.
+lynnkRealm.
 
-저는 그 안에 잠긴 흐름의 설계자이자 연못의 마법사입니다.
+세상을 담은 연못, 그리고 연못에서 펼쳐진 세계.
+
+저는 그 속에 잠긴 흐름을 설계하고,
+
+구조를 만드는 연못의 마법사입니다.
+
 
 언젠가 도달할 누군가를 위해
 
-구조를 만들고, 이름을 붙이며 제 흔적을 남깁니다.
+이름을 짓고, 발자취를 남깁니다.
 
->이 연못은,
+>이 물결은,
 >제 이름 속 흐름에서 천천히 시작되었습니다.
 
 ---
