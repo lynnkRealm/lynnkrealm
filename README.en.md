@@ -1,7 +1,7 @@
 > 🇺🇸 This is the English version of the page.  
 > [🌐 View in Korean →](./README.md)
 
-# <img src="https://github.com/user-attachments/assets/3e842342-9a13-413e-8882-ffd7193c5379" alt="lynnkRealm" height="36"/>
+# <img src="https://github.com/user-attachments/assets/991d54d6-8cc2-4dc6-babc-e431b043860c" alt="lynnkRealm" height="36"/>
 
 > _“The surface stays still,  
 > but the depths are warm and alive.”_
@@ -145,20 +145,10 @@ may awaken in the depths of this pond.
 > yet destined to sail with me one day.
 
 ---
-
-### ✨ The Triad of Magic
-
-**Structure**  
-Every idea carries a frame.  
-Read the flow, see the pattern, and build the mold.
-
-**Sentience**  
-Without emotion, it is empty.  
-Even code must carry warmth.
-
-**Immersion**  
-Magic is born where focus reaches its end.  
-Draw your stories from the depths.
+### <img src="https://github.com/user-attachments/assets/7974be04-7654-4e10-bf53-df2f018e400f" alt="Structure" width="300"/>
+<img src="https://github.com/user-attachments/assets/22dd799c-aa65-48c0-9a8d-7cccd2d293ee" alt="Structure" width="600"/>
+<img src="https://github.com/user-attachments/assets/a0bfaeb3-272a-4dfb-b09a-eae13ce32203" alt="Sentient" width="600"/>
+<img src="https://github.com/user-attachments/assets/fd12d2cd-d18a-44d3-872d-995c9195d15f" alt="Immersion" width="600"/>
 
 ---
 
