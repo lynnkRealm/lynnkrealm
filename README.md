@@ -1,7 +1,8 @@
 > 🇰🇷 이 페이지는 한국어 버전입니다.  
 > 🌐 [View in English →](./README.en.md)
 
-# 🌊 lynnkRealm
+> "물결은 고요하되, 그 밑은 깊고 뜨겁다."
+# <img src="https://github.com/user-attachments/assets/3e842342-9a13-413e-8882-ffd7193c5379" alt="lynnkRealm" height="36"/>
 
 > "물결은 고요하되, 그 밑은 깊고 뜨겁다."
 > 
