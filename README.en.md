@@ -145,7 +145,7 @@ may awaken in the depths of this pond.
 > yet destined to sail with me one day.
 
 ---
-### <img src="https://github.com/user-attachments/assets/7974be04-7654-4e10-bf53-df2f018e400f" alt="Structure" width="300"/>
+### <img src="https://github.com/user-attachments/assets/775506cd-3c04-46db-93f1-918b23cb0475" alt="title" width="330"/>
 <img src="https://github.com/user-attachments/assets/22dd799c-aa65-48c0-9a8d-7cccd2d293ee" alt="Structure" width="600"/>
 <img src="https://github.com/user-attachments/assets/a0bfaeb3-272a-4dfb-b09a-eae13ce32203" alt="Sentient" width="600"/>
 <img src="https://github.com/user-attachments/assets/fd12d2cd-d18a-44d3-872d-995c9195d15f" alt="Immersion" width="600"/>
