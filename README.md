@@ -145,7 +145,7 @@
 
 ## 📫 whisper to the pond
 
-- 📬 `akasarao3@gmail.com`
+- 📬 `lynnkrealm@gmail.com`
 - 🌐 [@lynnkRealm](https://github.com/lynnkRealm)
 
 > 흔적이 닿았을 때, 흐름은 이어집니다.
