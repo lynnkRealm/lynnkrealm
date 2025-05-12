@@ -119,7 +119,7 @@ They mark where my story begins.
 
 ## 📫 whisper to the pond
 
-- 📬 `akasarao3@gmail.com`  
+- 📬 `lynnkrealm@gmail.com`  
 - 🌐 [@lynnkRealm](https://github.com/lynnkRealm)
 
 > When a trace reaches the pond,  
