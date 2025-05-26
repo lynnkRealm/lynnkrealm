@@ -24,37 +24,20 @@ I create structures, name them, and leave behind my traces.
 
 ## 🧭 traces from the deep
 
-- ☕ **COTA** | A hand-drip coffee app with emotions *(surfacing soon...)*
-  
-  > Still resting deep beneath the pond.  
-  >  
-  > (coming soon)
-
-- 🛠️ **CAST** | A structural content publishing tool *(surfacing soon...)*
-  
-  > Still resting deep beneath the pond.  
-  >  
-  > (coming soon)
-
-- 🚗 **CRUXS** | Autonomous driving AI simulator  
-  > A driving scenario built with reinforcement learning and object detection  
-  >  
-  > [GitHub ↗](https://github.com/lynnkRealm/CRUXS)
-
 - 🚓 **CNED** | Smart navigation system with autonomous driving  
   > A quiet system detecting danger across public roads  
   >  
   > [GitHub ↗](https://github.com/lynnkRealm/CNED)
 
-- ⚓ **dock.sh** | One-line command for immersive dev setup  
+- ⚓ **Dock.sh** | One-line command for immersive dev setup  
   > Lower your sail and dock into the pond of deep focus  
   >  
   > [GitHub ↗](https://github.com/lynnkRealm/dock.sh)
 
-- 🐬 **orca** | My magical assistant for immersion - a digital whale  
-  > Still holding its breath in the deep  
+- 🚗 **CRUXS** | Autonomous driving AI simulator  
+  > A driving scenario built with reinforcement learning and object detection  
   >  
-  > (coming soon)
+  > [GitHub ↗](https://github.com/lynnkRealm/CRUXS)
 
 > True magic isn’t complex.  
 > It's just... often too quiet to be heard.
